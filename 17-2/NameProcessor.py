@@ -1,3 +1,5 @@
+# Xu ly khoang trang va sap xep ten
+
 fileSinhVien = open("tensv", "w+")
 for i in range(4):
 	name = input("Nhap ten sinh vien: ")
